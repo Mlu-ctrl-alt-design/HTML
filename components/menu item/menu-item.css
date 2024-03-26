@@ -1,0 +1,10 @@
+.nav-item-base {
+    background: #101828;
+    border-radius: var(--radius-sm, 6px);
+    padding: var(--spacing-md, 8px) var(--spacing-lg, 12px) var(--spacing-md, 8px) var(--spacing-lg, 12px);
+    display: flex;
+    flex-direction: row;
+    gap: var(--spacing-md, 8px);
+    align-items: center;
+    justify-content: flex-start;
+    align-self: stretch; }
